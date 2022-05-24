@@ -8,6 +8,9 @@ public class qwe {
             a = as.next();
             System.out.println(a);
 
+            //변경 ㅌㅌㅌㅌㅌ
+            //변경 ㅌㅌㅌㅌㅌ
+
             return ;
     }
 }
